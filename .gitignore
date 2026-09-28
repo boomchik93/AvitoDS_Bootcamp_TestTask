@@ -1,0 +1,10 @@
+# данные и всё, что пересчитывается кодом
+data/
+artifacts/
+artifacts_v*/
+*.zip
+# окружение и служебное
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store

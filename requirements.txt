@@ -1,0 +1,19 @@
+# Python 3.14. Версии, на которых получен итоговый ответ (v4).
+# torch ставится отдельно под свою CUDA, например:
+#   pip install torch==2.14.0 --index-url https://download.pytorch.org/whl/cu130
+numpy==2.5.3
+pandas==3.0.6
+pyarrow==25.0.1
+scipy==1.18.1
+scikit-learn==1.9.1
+lightgbm==4.7.0
+snowballstemmer==3.1.1
+sentence-transformers==6.1.0
+transformers==5.17.0
+datasets==5.0.1
+accelerate==1.15.0
+matplotlib==3.11.2
+seaborn==0.13.2
+nbformat==5.11.1
+nbconvert==7.17.1
+ipykernel==7.3.0
